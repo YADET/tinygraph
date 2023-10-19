@@ -1,0 +1,4 @@
+igraph
+spacy
+scispacy
+matplotlib
